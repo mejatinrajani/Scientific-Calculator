@@ -50,15 +50,16 @@ A responsive scientific calculator built with HTML, CSS, and JavaScript featurin
 
 ## Project Structure
 
+```bash
 calculator/
-├── assets/ # Static assets and styling files
-│ ├── back_remove.png # UI icon for backspace/remove button
-│ └── styles.css # Calculator styling and layout
-│
-├── index.html # Main calculator interface
-├── script.js # Core calculator logic and functionality
-├── README.md # Project documentation
-└── LICENSE.md # License information
+├── assets/
+│   ├── back_remove.png
+│   └── styles.css
+├── index.html
+├── script.js
+├── README.md
+└── LICENSE.md
+```
 
 ## This project demonstrates:
 
