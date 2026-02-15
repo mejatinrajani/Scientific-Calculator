@@ -60,3 +60,17 @@ calculator/
 ├── script.js
 └── README.md
 └── LICENSE.md
+
+## This project demonstrates:
+
+- DOM manipulation
+
+- Event handling
+
+- Mathematical computations in JavaScript
+
+- State management in UI logic
+
+- Keyboard interaction handling
+
+- Clean UI behavior and feedback
