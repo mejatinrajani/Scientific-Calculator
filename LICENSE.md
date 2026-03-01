@@ -1,11 +1,47 @@
-If you want, I can also give you:
+MIT License
 
-✅ README with screenshots section  
-✅ GitHub badges (stars, license, tech stack)  
-✅ Live demo deployment (GitHub Pages)  
-✅ Professional project banner image  
-✅ Portfolio description  
-✅ LinkedIn project post  
-✅ Resume project entry  
+Copyright (c) 2026 Jatin
 
-Just say 👍
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+------------------------------------------------------------------
+
+Author Details
+
+Name: Jatin Rajani
+Project: Scientific Calculator  
+
+LinkedIn: https://www.linkedin.com/in/mejatinrajani
+GitHub: https://github.com/mejatinrajani
+
+I, Jatin, hereby declare that all the source code, logic, design, and implementation of this project (Scientific Calculator) have been independently developed and written by me.
+
+I confirm that:
+
+This work is my original creation.
+
+I am the sole author and legal owner of this project and its codebase.
+
+No part of this project has been copied or used from any unauthorized source.
+
+Any external libraries or tools used are properly credited and comply with their respective licenses.
+
+I reserve all rights as the creator and owner of this software, subject to the terms of the license provided with this project.
+
+Author: Jatin Rajani
