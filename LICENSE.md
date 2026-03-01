@@ -25,6 +25,7 @@ SOFTWARE.
 Author Details
 
 Name: Jatin Rajani
+
 Project: Scientific Calculator  
 
 LinkedIn: https://www.linkedin.com/in/mejatinrajani
@@ -35,9 +36,7 @@ I, Jatin, hereby declare that all the source code, logic, design, and implementa
 I confirm that:
 
 This work is my original creation.
-
 I am the sole author and legal owner of this project and its codebase.
-
 No part of this project has been copied or used from any unauthorized source.
 
 Any external libraries or tools used are properly credited and comply with their respective licenses.
