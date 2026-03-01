@@ -29,6 +29,7 @@ Name: Jatin Rajani
 Project: Scientific Calculator  
 
 LinkedIn: https://www.linkedin.com/in/mejatinrajani
+
 GitHub: https://github.com/mejatinrajani
 
 I, Jatin, hereby declare that all the source code, logic, design, and implementation of this project (Scientific Calculator) have been independently developed and written by me.
